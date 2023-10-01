@@ -1,2 +1,7 @@
-# Data-projects
-Home Task_Saving experiment results
+# Определение качества вин
+
+Проект посвящен определению качества вин по набору их характеристик.
+
+В качестве исходных данных использован [датасет](https://www.kaggle.com/rajyellow46/wine-quality) с Kaggle.
+
+Основной ноутбук проекта main.ipynb находится в директории notebooks.
